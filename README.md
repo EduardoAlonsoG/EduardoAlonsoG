@@ -47,6 +47,9 @@
   <a href="https://www.linkedin.com/in/eduardogalonso" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.leetcode.com/eduardosito111" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eduardosito111" height="30" width="40" />
+  </a>
 </div>
 
 ###
